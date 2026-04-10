@@ -119,3 +119,29 @@ header {
     width: 99%;
 
 }
+.sect3{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 300px;
+    gap: 100px;
+    margin-top: 150px;
+}
+.left2{
+    width: 489px;
+    background-color: #88C9FD;
+    height: 359px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    padding-top: 15px;
+}
+.right2{
+    width: 605px;
+    height: 356px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
