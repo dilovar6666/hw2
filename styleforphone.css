@@ -89,5 +89,8 @@
     .posab{
         display: none;
     }
+    .cont{
+        flex-direction: column;
+    }
 
 }
