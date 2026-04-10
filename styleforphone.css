@@ -1,0 +1,93 @@
+@media (max-width:510px) {
+    .underhead {
+        display: none;
+    }
+
+    .dd {
+        display: none;
+    }
+
+    .bt1 {
+        display: none;
+    }
+
+    .ddd {
+        display: block;
+    }
+    .herosc{
+        height: 700px;
+    }
+    .sect1{
+        flex-direction: column;
+        text-align: center;
+    }
+    .right{
+        width: 90%;
+    }
+    .sect2{
+        height: 1300px;
+        flex-wrap: wrap;
+    }
+    .maindiv{
+        flex-wrap: wrap;
+        height: 320px;
+        margin: 0;
+        padding-top: 1px;
+    }
+    .div1{
+        height: 300px;
+        width: 95%;
+    }
+    .sect3{
+        flex-direction: column;
+        margin-top: 20px;
+        margin-bottom: 90px;
+        gap: 8px;
+    }
+    .left2{
+        width: 95%;
+    }
+    .right2{
+        width: 95%;
+        text-align: center;
+    }
+    .sect33{
+        flex-direction: column;
+        margin-top: 50px;
+        margin-bottom: 10px;
+        text-align: center;
+        gap: 8px;
+    }
+    .left22{
+        width: 95%;
+    }
+    .sect5{
+        height: 300px;
+        flex-wrap: wrap;
+        margin-top: 90px;
+        margin-bottom: 90px;
+    }
+    .sect7{
+        height: 850px;
+    }
+    .sect8{
+        flex-wrap: wrap;
+        height:1200px;
+        flex-direction: row;
+        text-align: center;
+        justify-content: center;
+    }
+    .maindiv2{
+        flex-wrap: wrap;
+        height: 900px;
+        text-align: center;
+        justify-content: center;
+    }
+    .sect9{
+        text-align: center;
+    }
+    .posab{
+        display: none;
+    }
+
+}
