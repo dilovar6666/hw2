@@ -124,7 +124,6 @@ header {
     width: 100%;
     justify-content: center;
     align-items: center;
-    margin-bottom: 300px;
     gap: 100px;
     margin-top: 150px;
 }
@@ -144,4 +143,15 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
+}
+
+.sect33{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 300px;
+    gap: 100px;
+    margin-top: 150px;
+    flex-direction: row-reverse;
 }
