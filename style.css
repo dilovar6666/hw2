@@ -266,3 +266,111 @@ header {
     left: 2px;
     top: 2px;
 }
+
+.footer {
+    padding: 60px 20px;
+    border-top: 1px solid #e5e7eb;
+}
+
+.cont {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.fс {
+    display: flex;
+    flex-direction: column;
+}
+
+.brand {
+    width: 35%;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+.icon {
+    font-size: 20px;
+}
+
+.describ {
+    color: #4b5563;
+    line-height: 1.5;
+    margin-bottom: 30px;
+    font-size: 16px;
+    max-width: 90%;
+}
+
+.subscribe-form {
+    display: flex;
+    align-items: center;
+    border: 1px solid #374151;
+    border-radius: 12px;
+    padding: 4px;
+    max-width: 320px;
+}
+
+.subscribe-form input {
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+    flex-grow: 1;
+    font-size: 15px;
+    background: transparent;
+}
+
+.subscribe-form button {
+    background-color: #7dd3fc;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    color: #111827;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.links {
+    width: 20%;
+}
+
+.contact {
+    width: 25%;
+}
+
+.footer-column h3 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+
+.lw {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.lw a {
+    text-decoration: none;
+    color: #4b5563;
+    font-size: 16px;
+}
+
+.cw {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.ci {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 16px;
+}
