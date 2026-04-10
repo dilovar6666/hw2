@@ -195,7 +195,8 @@ header {
     justify-content: space-evenly;
     margin-top: 90px;
 }
-.sect8{
+
+.sect8 {
     width: 100%;
     height: 454px;
     background-color: #E2BAA4;
@@ -207,14 +208,16 @@ header {
     padding-top: 60px;
     padding-bottom: 40px;
 }
-.maindiv2{
-    width: 95%; 
+
+.maindiv2 {
+    width: 95%;
     height: 300px;
     display: flex;
     gap: 20px;
     align-items: center;
 }
-.div2{
+
+.div2 {
     width: 385.53692626953125px;
     height: 221.61968994140624px;
     background-color: white;
@@ -224,4 +227,42 @@ header {
     flex-direction: column;
     justify-content: space-evenly;
     text-align: justify;
+}
+
+.sect9 {
+    width: 90%;
+    height: 368px;
+    background-color: #88C9FD;
+    margin: auto;
+    margin-top: 120px;
+    margin-bottom: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    border-radius: 20px;
+}
+
+.sect9 h1 {
+    font-size: 55px;
+}
+
+.bt222 {
+    padding: 10px;
+    background-color: black;
+    border: 3px solid black;
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 230px;
+    height: 58px;
+
+}
+
+.posab {
+    position: absolute;
+    left: 2px;
+    top: 2px;
 }
