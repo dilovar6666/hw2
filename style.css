@@ -195,3 +195,33 @@ header {
     justify-content: space-evenly;
     margin-top: 90px;
 }
+.sect8{
+    width: 100%;
+    height: 454px;
+    background-color: #E2BAA4;
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.maindiv2{
+    width: 95%; 
+    height: 300px;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.div2{
+    width: 385.53692626953125px;
+    height: 221.61968994140625px;
+    background-color: white;
+    border-radius: 11.46px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: justify;
+}
